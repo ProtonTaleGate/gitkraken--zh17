@@ -1,4 +1,4 @@
-# 
+# Enhance GitKraken for PC | GitKraken for Windows with GitKraken for PC | GitKraken for Windows new Script: GPG-signing & automated-workflows, the #1 script. Includes GPG-signing
 
 
 
